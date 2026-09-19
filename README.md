@@ -220,6 +220,5 @@
 
 | Способ | Контакты |
 |:---|:---|
-| Телефон | 8-916-131-38-08 |
 | Telegram | @Dawlatov_Pavel |
 | Email | pavel.dawlatov@yandex.ru |
